@@ -1,0 +1,27 @@
+{
+  "name": "lol-conqueror",
+  "version": "0.0.1",
+  "description": "An Electron app for importing champion builds into League of Legends.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisaacfriend/conqueror.git"
+  },
+  "keywords": [
+    "league-of-legends",
+    "leagueoflegends",
+    "League",
+    "LoL",
+    "electron",
+    "nodejs"
+  ],
+  "author": "J. Isaac Friend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jisaacfriend/conqueror/issues"
+  },
+  "homepage": "https://github.com/jisaacfriend/conqueror#readme"
+}
